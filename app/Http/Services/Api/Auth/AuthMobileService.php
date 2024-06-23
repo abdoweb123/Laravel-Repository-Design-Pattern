@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Services\Api\V1\Auth;
+namespace App\Http\Services\Api\Auth;
 
 class AuthMobileService extends AuthService
 {

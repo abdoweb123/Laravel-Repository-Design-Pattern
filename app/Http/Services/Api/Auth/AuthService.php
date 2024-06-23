@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Services\Api\V1\Auth;
+namespace App\Http\Services\Api\Auth;
 
 use App\Http\Requests\Api\V1\Auth\SignInRequest;
 use App\Http\Requests\Api\V1\Auth\SignUpRequest;
